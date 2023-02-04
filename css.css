@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+  }
+  
+  #container{
+    box-shadow: 3px 3px 3px 3px grey;
+    height: 600px;
+    width: 500px;
+    margin: auto;
+  }
+
+ 
+  span{
+    text-align: center;
+  }
+  
+  
+  h3{
+    text-align: left;
+  }
+  
+  p {
+    text-align: left;
+  }
+  
+  
+  
+  input[type=password], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: auto;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: lightgrey;
+  }
